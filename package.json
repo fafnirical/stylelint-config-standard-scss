@@ -17,7 +17,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "stylelint-config-standard": "~18.2.0"
+    "stylelint-config-standard": "~18.3.0"
   },
   "devDependencies": {
     "jest": "^23.6.0",
@@ -26,7 +26,7 @@
     "stylelint-scss": "^3.4.0"
   },
   "peerDependencies": {
-    "stylelint": "^8.3.0 || ^9.0.0",
+    "stylelint": "^8.3.0 || ^9.0.0 || ^10.0.0",
     "stylelint-scss": "^2.0.0 || ^3.0.0"
   },
   "jest": {
